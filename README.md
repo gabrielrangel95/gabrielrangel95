@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Gabriel Rangel 👋
 
-<!--
-**gabrielrangel95/gabrielrangel95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Intro
 
-Here are some ideas to get you started:
+Developer since 2014, working mainly in JavaScript projects, using
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React.js (Next.js)
+- Node.js (Express, Nest.js)
+- React Native
+
+## My Course
+
+I teach about how you can start coding, from zero to be a Junior Developer:
+https://mapadaprogramacao.com.br/
